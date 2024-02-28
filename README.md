@@ -1,6 +1,6 @@
 "# R-Programming-Data-Analysis-Library" 
 
-LEARNING R README
+LEARNING R Exercise Files, Activities, Reference Material
 ============================================================
 
 This R project was created by Barton Poulson for the LinkedIn Learning course "Learning R." This R project contains three folders:
