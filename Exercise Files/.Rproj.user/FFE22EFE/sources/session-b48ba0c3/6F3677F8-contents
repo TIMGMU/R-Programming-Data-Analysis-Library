@@ -1,0 +1,20 @@
+# Assign values 1-5 to x
+x <- 1:5
+
+# Assign values 6-10 to y
+y <- 6:10
+
+# Display x and Display y (print to console)
+print(x)
+print(y)
+
+# Add x to y
+x_plus_y <- x + y
+print(x_plus_y)
+
+# Multiply x with 2
+x_times_2 <- x * 2
+print(x_times_2)
+
+# List all objects
+ls()
